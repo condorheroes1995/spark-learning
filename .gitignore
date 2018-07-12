@@ -1,2 +1,11 @@
 spark-learning.iml
-.idea/*
+.idea/
+project/project/
+project/target/
+target/
+.gitconfig
+.DS_Store
+dependency-reduced-pom.xml
+src/.DS_Store
+src/main/.DS_Store
+src/main/scala/.DS_Store
